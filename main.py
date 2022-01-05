@@ -17,10 +17,4 @@ while True:
 	time.sleep(7)
 	pg.typewrite('+dep all\n',0.2)
 
-
-
 	time.sleep(random.randint(20, 42))
-
-
-
-
